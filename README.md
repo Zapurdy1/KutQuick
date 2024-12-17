@@ -1,5 +1,4 @@
-# 387_KutQuick_Project
-GROUP 04: 
+# 387_KutQuick_Project Creators
 - RUSSELL COON
 - ZACHARY PURDY
 - HAYDEN COLEMAN
